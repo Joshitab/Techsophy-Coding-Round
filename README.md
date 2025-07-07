@@ -15,4 +15,3 @@ This project is an intelligent, modular tool that analyzes cloud resource usage 
   - Implementation/Recommender Module
 - 📈 **Reports & Insights**: Generates dashboards and optimization reports.
 
-## Architecture
